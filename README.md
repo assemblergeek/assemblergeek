@@ -6,22 +6,27 @@
 ### <div align="center">Hello guys, my name is TeaIsNice, so far I'm a full stack developer 🏔️</div>  
   
 
-- 🌊 I'm fifteen years old  
+- 🌊 I'm fifteen years old.
   
 
-- 💧 My OS - Arch Linux, Hyprland  
+- 💧 My OS - Arch Linux, Hyprland.  
   
 
 - 🌀 A real fan of Hello Kitty and My Little Pony.  
   
 
 - 🪩 At the moment I am working on a project.  
-  
+
+
+- 🦋 I started programming when I was 10 years old. My first program was a simple script written in Python.
+
+
+- 💦 Scared of TASM so using FASM.
 
 <br/>  
 
 
-## Skill Set ( including assembler )  
+## Skill Set ( including asm )  
 <tr><td valign="top" width="33%">
 
 <div align="center">  
