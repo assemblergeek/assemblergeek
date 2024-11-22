@@ -52,13 +52,3 @@
 
 <br/>  
 
-
-## Github Stats  
-![Profile views counter](https://komarev.com/ghpvc/?username=assemblergeek&&style=flat-square)  
-  
-
-<br/>  
-
-
-
-----
