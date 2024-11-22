@@ -23,6 +23,9 @@
 
 - 💦 Scared of TASM so using FASM.
 
+
+- 🔬 Reverse engineering - smells good.
+
 <br/>  
 
 
