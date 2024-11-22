@@ -15,7 +15,7 @@
 - 🌀 A real fan of Hello Kitty and My Little Pony.  
   
 
-- 🪩 At the moment I am working on a project.  
+- 🪩 At the moment I am working on a little project ( secret, u know? xd )   
 
 
 - 🦋 I started programming when I was 10 years old. My first program was a simple script written in Python.
