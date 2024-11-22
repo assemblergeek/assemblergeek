@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Skill Set ( including assembler )  
 <tr><td valign="top" width="33%">
 
 <div align="center">  
